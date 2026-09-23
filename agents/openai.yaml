@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tailnet Preview"
+  short_description: "Run durable private web previews across trusted tailnet devices"
+  default_prompt: "Start or revive this local site as a supervised, tailnet-only preview without disrupting any other project, then report its dashboard and project URLs."
